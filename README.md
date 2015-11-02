@@ -7,6 +7,7 @@ Arduino library for interfacing with Dynamixel MX series servos over serial comm
 See the examples folder for sample code.
 
 ## Changelog
+* 2 November 2015 - buadrate_and_id_setup ino modify 
 * 25 March 2015 -  Library migrated to GitHub.
 * 25 April 2013 - A few errors have been fixed in Dynamixel Library
 * 28 June 2012 - Dynamixel Library re-written from the ground up... there is no longer missed commands set to the servo.
